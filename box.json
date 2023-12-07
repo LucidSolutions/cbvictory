@@ -1,33 +1,35 @@
 {
-    "name": "Responsive - Victory Content Box Theme",
-    "version": "1.0",
-    "author": "Lucid Outsourcing Solutions",
-    "location": "https://github.com/LucidSolutions/cbvictory/archive/master.zip",
-    "homepage": "https://github.com/LucidSolutions/cbvictory/",
-    "documentation": "",
-    "repository": {
-        "type": "git",
-        "URL": "https://github.com/LucidSolutions/cbvictory/"
+    "name":"Responsive - Victory Content Box Theme",
+    "version":"1.0",
+    "author":"Lucid Outsourcing Solutions",
+    "location":"https://github.com/LucidSolutions/cbvictory/archive/master.zip",
+    "homepage":"https://github.com/LucidSolutions/cbvictory/",
+    "documentation":"",
+    "repository":{
+        "type":"git",
+        "URL":"https://github.com/LucidSolutions/cbvictory/"
     },
-    "bugs": "https://github.com/LucidSolutions/cbvictory/issues",
-    "slug": "cbvictory",
-    "shortDescription": "Responsive - Victory Content Box Theme",
-    "description": "Responsive - Victory Content Box Theme",
-    "instructions": "",
-    "changelog": "",
-    "type": "contentbox-themes",
-    "license": [{
-        "type": "Apache2",
-        "URL": "http://www.apache.org/licenses/LICENSE-2.0"
-    }],
-    "contributors": [
+    "bugs":"https://github.com/LucidSolutions/cbvictory/issues",
+    "slug":"cbvictory",
+    "shortDescription":"Responsive - Victory Content Box Theme",
+    "description":"Responsive - Victory Content Box Theme",
+    "instructions":"",
+    "changelog":"",
+    "type":"contentbox-themes",
+    "license":[
+        {
+            "type":"Apache2",
+            "URL":"http://www.apache.org/licenses/LICENSE-2.0"
+        }
+    ],
+    "contributors":[
         "Lucid Solutions <info@lucidsolutions.in>"
     ],
-    "dependencies": {},
-    "devDependencies": {},
-    "installPaths": {},
-    "scripts": {},
-    "ignore": [
+    "dependencies":{},
+    "devDependencies":{},
+    "installPaths":{},
+    "scripts":{},
+    "ignore":[
         "**/.*",
         "build.xml",
         "tests"

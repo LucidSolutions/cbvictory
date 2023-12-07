@@ -38,7 +38,7 @@
 					</cfloop>
 
 					<!--- Blog Link, verify active --->
-					<cfif ( !prc.cbSettings.cb_site_disable_blog )>
+					<cfif ( !structKeyExists(prc.cbSettings, "cb_site_disable_blog") )>
 						<cfif cb.isBlogView()><li class="nav-item active"><cfelse><li></cfif>
 							<a class="nav-link" href="#cb.linkBlog()#">Blog</a>
 						</li>
