@@ -15,7 +15,7 @@
                     </ul>
                 </div>
                 <div class="col-md-4">
-                    <p>Theme Developed By <a href="https://lucidoutsourcing.com/">Lucid Outsourcing Solutions Pvt. Ltd.</a></p>
+                    <p>Theme Developed By <a href="https://lucidoutsourcing.com/">Lucid Outsourcing Solutions</a></p>
                 </div>
             </div>
         </div>
